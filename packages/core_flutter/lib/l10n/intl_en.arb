@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "appName" : "Movie app",
+  "test" : "Test1",
+  "stockError" : "Entered product quantity is not available",
+  "emailError" : "Invalid email please ceheck the email",
+  "PasswordError" : "Invalid password please ceck the password",
+  "PasswordError2" : "Invalid passwrd pleeasre c=heck the password2rws3"
+}
